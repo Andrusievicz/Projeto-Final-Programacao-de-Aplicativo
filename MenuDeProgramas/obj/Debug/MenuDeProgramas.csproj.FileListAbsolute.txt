@@ -1,0 +1,54 @@
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\MenuDeProgramas\obj\Debug\MenuDeProgramas.csproj.AssemblyReference.cache
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\MenuDeProgramas\obj\Debug\MenuDeProgramas.Properties.Resources.resources
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\MenuDeProgramas\obj\Debug\MenuDeProgramas.csproj.GenerateResource.cache
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\MenuDeProgramas\obj\Debug\MenuDeProgramas.csproj.CoreCompileInputs.cache
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\MenuDeProgramas\obj\Debug\MenuDeProgramas.FormMain.resources
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\MenuDeProgramas\obj\Debug\MenuDeProgramas.FormResistenciaSerieParalelo3.resources
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\MenuDeProgramas\obj\Debug\MenuDeProgramas.FormResistenciaSerieParaleloN.resources
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\MenuDeProgramas\obj\Debug\MenuDeProgramas.FormMediaNNotas.resources
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\MenuDeProgramas\obj\Debug\MenuDeProgramas.FormConsumoCombustivel.resources
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\MenuDeProgramas\bin\Debug\MenuDeProgramas.exe.config
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\MenuDeProgramas\bin\Debug\MenuDeProgramas.exe
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\MenuDeProgramas\bin\Debug\MenuDeProgramas.pdb
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\MenuDeProgramas\obj\Debug\MenuDeProgramas.exe
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\MenuDeProgramas\obj\Debug\MenuDeProgramas.pdb
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\MenuDeProgramas\obj\Debug\MenuDeProgramas.FormCondicaoPagamento.resources
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\MenuDeProgramas\obj\Debug\MenuDeProgramas.FormCalculoIMC.resources
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\MenuDeProgramas\obj\Debug\MenuDeProgramas.FormConversaoTemperaturas.resources
+C:\Users\ivone\Desktop\Programação de Aplicativo\C#\MenuDeProgramas\obj\Debug\MenuDeProgramas.FormMedia4Notas.resources
+C:\Users\ivone\Desktop\MenuDeProgramas\bin\Debug\MenuDeProgramas.exe.config
+C:\Users\ivone\Desktop\MenuDeProgramas\bin\Debug\MenuDeProgramas.exe
+C:\Users\ivone\Desktop\MenuDeProgramas\bin\Debug\MenuDeProgramas.pdb
+C:\Users\ivone\Desktop\MenuDeProgramas\obj\Debug\MenuDeProgramas.csproj.AssemblyReference.cache
+C:\Users\ivone\Desktop\MenuDeProgramas\obj\Debug\MenuDeProgramas.FormCalculoIMC.resources
+C:\Users\ivone\Desktop\MenuDeProgramas\obj\Debug\MenuDeProgramas.FormCondicaoPagamento.resources
+C:\Users\ivone\Desktop\MenuDeProgramas\obj\Debug\MenuDeProgramas.FormConsumoCombustivel.resources
+C:\Users\ivone\Desktop\MenuDeProgramas\obj\Debug\MenuDeProgramas.FormConversaoTemperaturas.resources
+C:\Users\ivone\Desktop\MenuDeProgramas\obj\Debug\MenuDeProgramas.FormMain.resources
+C:\Users\ivone\Desktop\MenuDeProgramas\obj\Debug\MenuDeProgramas.FormMedia4Notas.resources
+C:\Users\ivone\Desktop\MenuDeProgramas\obj\Debug\MenuDeProgramas.FormMediaNNotas.resources
+C:\Users\ivone\Desktop\MenuDeProgramas\obj\Debug\MenuDeProgramas.FormResistenciaSerieParaleloN.resources
+C:\Users\ivone\Desktop\MenuDeProgramas\obj\Debug\MenuDeProgramas.Properties.Resources.resources
+C:\Users\ivone\Desktop\MenuDeProgramas\obj\Debug\MenuDeProgramas.FormResistenciaSerieParalelo3.resources
+C:\Users\ivone\Desktop\MenuDeProgramas\obj\Debug\MenuDeProgramas.csproj.GenerateResource.cache
+C:\Users\ivone\Desktop\MenuDeProgramas\obj\Debug\MenuDeProgramas.csproj.CoreCompileInputs.cache
+C:\Users\ivone\Desktop\MenuDeProgramas\obj\Debug\MenuDeProgramas.exe
+C:\Users\ivone\Desktop\MenuDeProgramas\obj\Debug\MenuDeProgramas.pdb
+C:\Users\ivone\Desktop\Programação de Aplicativo\MenuDeProgramas\bin\Debug\MenuDeProgramas.exe.config
+C:\Users\ivone\Desktop\Programação de Aplicativo\MenuDeProgramas\bin\Debug\MenuDeProgramas.exe
+C:\Users\ivone\Desktop\Programação de Aplicativo\MenuDeProgramas\bin\Debug\MenuDeProgramas.pdb
+C:\Users\ivone\Desktop\Programação de Aplicativo\MenuDeProgramas\obj\Debug\MenuDeProgramas.csproj.AssemblyReference.cache
+C:\Users\ivone\Desktop\Programação de Aplicativo\MenuDeProgramas\obj\Debug\MenuDeProgramas.FormCalculoIMC.resources
+C:\Users\ivone\Desktop\Programação de Aplicativo\MenuDeProgramas\obj\Debug\MenuDeProgramas.FormCondicaoPagamento.resources
+C:\Users\ivone\Desktop\Programação de Aplicativo\MenuDeProgramas\obj\Debug\MenuDeProgramas.FormConsumoCombustivel.resources
+C:\Users\ivone\Desktop\Programação de Aplicativo\MenuDeProgramas\obj\Debug\MenuDeProgramas.FormConversaoTemperaturas.resources
+C:\Users\ivone\Desktop\Programação de Aplicativo\MenuDeProgramas\obj\Debug\MenuDeProgramas.FormMain.resources
+C:\Users\ivone\Desktop\Programação de Aplicativo\MenuDeProgramas\obj\Debug\MenuDeProgramas.FormMedia4Notas.resources
+C:\Users\ivone\Desktop\Programação de Aplicativo\MenuDeProgramas\obj\Debug\MenuDeProgramas.FormMediaNNotas.resources
+C:\Users\ivone\Desktop\Programação de Aplicativo\MenuDeProgramas\obj\Debug\MenuDeProgramas.FormResistenciaSerieParaleloN.resources
+C:\Users\ivone\Desktop\Programação de Aplicativo\MenuDeProgramas\obj\Debug\MenuDeProgramas.Properties.Resources.resources
+C:\Users\ivone\Desktop\Programação de Aplicativo\MenuDeProgramas\obj\Debug\MenuDeProgramas.FormResistenciaSerieParalelo3.resources
+C:\Users\ivone\Desktop\Programação de Aplicativo\MenuDeProgramas\obj\Debug\MenuDeProgramas.csproj.GenerateResource.cache
+C:\Users\ivone\Desktop\Programação de Aplicativo\MenuDeProgramas\obj\Debug\MenuDeProgramas.csproj.CoreCompileInputs.cache
+C:\Users\ivone\Desktop\Programação de Aplicativo\MenuDeProgramas\obj\Debug\MenuDeProgramas.exe
+C:\Users\ivone\Desktop\Programação de Aplicativo\MenuDeProgramas\obj\Debug\MenuDeProgramas.pdb
